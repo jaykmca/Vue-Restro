@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "jay",
+      "email": "jay@test.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "abhay",
+      "email": "abhay@test.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "name": "kishor",
+      "email": "kishor@cybage.com",
+      "password": "password",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Dominos",
+      "address": "kharadi Pune",
+      "contact": 124578,
+      "ratings": 2.4,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "address": "Magarpatta Pune",
+      "contact": 524178,
+      "ratings": 4.4
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "address": "Klayani Nagar Pune",
+      "contact": 1457854,
+      "ratings": 6.4
+    },
+    {
+      "name": "McDonald",
+      "address": "Viman Nagar Pune",
+      "contact": 54578112,
+      "ratings": 5.4,
+      "id": 4
+    },
+    {
+      "name": "Ahithi",
+      "address": "Kharadi Pune",
+      "contact": "45214578",
+      "ratings": "5.2",
+      "id": 5
+    }
+  ]
+}
